@@ -9,7 +9,10 @@ Purpose: The purpose of this assignment is to start performing machine learning 
 Class Design/Implementation:
 
 X(Features): Numerical measurements describing the chaaracteristics of each patient such as age, blood pressure, etc
+
 Y(Target): A value representing the progression of diabetes after a year.
+
 train_test_split: Divides dataset into training and testing data.
+
 LinearRegression: A regression model that predicts the target using a lineaar relationship between features and outcomes
 
