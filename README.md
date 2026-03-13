@@ -14,5 +14,15 @@ Y(Target): A value representing the progression of diabetes after a year.
 
 train_test_split: Divides dataset into training and testing data.
 
-LinearRegression: A regression model that predicts the target using a lineaar relationship between features and outcomes
+Linear Regression: A regression model that predicts the target using a lineaar relationship between features and outcome.
+
+DecisionTreeRegressor: A model that predicts the data by splitting them into "branches".
+
+RandomForestRegressor: A model thatbuilds multiple decision trees and averages them to increase accuracy.
+
+fit: trains the model. predict: Makes predictions on test data.
+
+Limitations: 
+1. The data set is relatively small.
+2. MSE and R2 cannot tell us everything about the dataset as a whole.
 
